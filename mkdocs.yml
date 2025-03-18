@@ -1,0 +1,22 @@
+site_name: MyApp Documentation
+nav:
+  - Главная: README.md
+  - Архитектура: architecture.md
+  - Изменения: CHANGELOG.md
+  - Безопасность: security.md
+  - Лицензия: LICENSE.md
+  - Android:
+      - Архитектура: android/android-architecture.md
+      - Зависимости: android/android-dependencies.md
+      - Установка: android/android-setup.md
+      - Безопасность: android/android-security.md
+  - iOS:
+      - Архитектура: ios/ios-architecture.md
+      - Зависимости: ios/ios-dependencies.md
+      - Установка: ios/ios-setup.md
+      - Безопасность: ios/ios-security.md
+  - API MTS:
+      - Обзор API: api/mtsapi-overview.md
+      - Авторизация: api/mtsapi-auth.md
+      - Эндпоинты: api/mtsapi-endpoints.md
+theme: readthedocs
