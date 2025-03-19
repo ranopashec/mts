@@ -1,22 +1,24 @@
-site_name: MyApp Documentation
+site_name: MTS IOT Documentation
+
 nav:
-  - Главная: README.md
-  - Архитектура: architecture.md
-  - Изменения: CHANGELOG.md
-  - Безопасность: security.md
-  - Лицензия: LICENSE.md
+  - Home: README.md
+  - Architecture: architecture.md
+  - Changelog: CHANGELOG.md
+  - Security: security.md
+  - License: LICENSE.md
   - Android:
-      - Архитектура: android/android-architecture.md
-      - Зависимости: android/android-dependencies.md
-      - Установка: android/android-setup.md
-      - Безопасность: android/android-security.md
+      - Architecture: android/android-architecture.md
+      - Dependencies: android/android-dependencies.md
+      - Setup: android/android-setup.md
+      - Security: android/android-security.md
   - iOS:
-      - Архитектура: ios/ios-architecture.md
-      - Зависимости: ios/ios-dependencies.md
-      - Установка: ios/ios-setup.md
-      - Безопасность: ios/ios-security.md
+      - Architecture: ios/ios-architecture.md
+      - Dependencies: ios/ios-dependencies.md
+      - Setup: ios/ios-setup.md
+      - Security: ios/ios-security.md
   - API MTS:
-      - Обзор API: api/mtsapi-overview.md
-      - Авторизация: api/mtsapi-auth.md
-      - Эндпоинты: api/mtsapi-endpoints.md
+      - API Overview: api/mtsapi-overview.md
+      - Authentication: api/mtsapi-auth.md
+      - Endpoints: api/mtsapi-endpoints.md
+
 theme: readthedocs

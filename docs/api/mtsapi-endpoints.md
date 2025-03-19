@@ -1,3 +1,3 @@
-# Основные эндпоинты
+# Endpoints
 
 ## /auth/login...

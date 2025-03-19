@@ -2,4 +2,4 @@ mtsapi: 3.0.0
 info:
   title: MTS API
   version: 1.0.0
-  description: API для мобильных сервисов MTS
+  description: API for HB-IoT services MTS

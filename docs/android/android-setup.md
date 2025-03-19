@@ -1,3 +1,1 @@
-# Установка Android
-
-## Требования...
+See dependencies
