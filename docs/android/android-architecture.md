@@ -54,4 +54,3 @@ App on Android is built using a structured, layered architecture that leverages 
    The application is divided into distinct modules based on features, enabling parallel development and easier maintenance.
 5. **Implement Robust Error Handling**:  
    Comprehensive error handling is in place throughout the app, using Android’s logging facilities and [Crashlytics](https://firebase.google.com/products/crashlytics) for prompt issue resolution.
-
